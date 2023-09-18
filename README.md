@@ -1,9 +1,8 @@
-# Верстка шаблона письма
+# Email template layout
 
-Учебный проект
+Email template layout is made based on Figma template.
 
-Верстка по макету Figma.
+I used : HTML5, inline styles.
 
-1. Чистая адаптивная верстка на HTML и CSS.
-2. Внедренные стили.
-3. Отображение рисунков сделано из локали, в реальном шаблоне должны браться с сетевого ресурса.
+Constraint
+Images should be located on the accessible network resource.
