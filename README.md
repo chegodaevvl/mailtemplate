@@ -1,8 +1,9 @@
-# Email template layout
+# Верстка шаблона письма
+Адаптивная верстка шаблона письма по макету из Figma.
 
-Email template layout is made based on Figma template.
+При реализации проекта использовались следующие инструменты:
+* Figma
+* HTML5
+* CSS3
 
-I used : HTML5, inline styles.
-
-Constraint
-Images should be located on the accessible network resource.
+Ссылка на макет: https://www.figma.com/file/IjPFQbzPEyexijIJmHSxId/blanchard-mail?type=design&node-id=0-1&mode=design&t=GXAIEaacdkRFaXiZ-0
